@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.application
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\obj\Release\BankAccount.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\obj\Release\BankAccount.application
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\obj\Release\BankAccount.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\obj\Release\BankAccount.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.exe.CodeAnalysisLog.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BankAccount\BankAccount\bin\Release\BankAccount.exe.lastcodeanalysissucceeded
